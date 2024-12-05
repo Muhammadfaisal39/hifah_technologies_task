@@ -1,16 +1,13 @@
-# hifah_technologies_task
+# Flutter Login Page
 
-The task assigned by Hifah Technologies.
+A clean and responsive Flutter login page with reusable components and modern UI.
 
-## Getting Started
+## Features
+- Responsive design using `MediaQuery` and `flutter_screenutil`.
+- Reusable components for better code organization.
+- Easy navigation and user-friendly UI.
+- State management ready.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![App Screenshot](assets/screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
