@@ -1,6 +1,6 @@
-# task
+# hifah_technologies_task
 
-A new Flutter project.
+The task assigned by Hifah Technologies.
 
 ## Getting Started
 
